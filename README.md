@@ -3,3 +3,4 @@ I've learned bash scripting for running the simulations and data cleaning and le
 I am also interested in Machine Learning and currently am working on a research project.
 I've made different repositories to include some of the codes I've used for future references.
 Repositories are: ML - Bash - OOMMF - Vinamax
+I am taking a Java course and uploading my assignments in a repository named Java. 
